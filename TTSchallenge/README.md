@@ -1,6 +1,6 @@
 # TTS Backend Take Home Challenge
 
-Thank you for your interest in working at Taptap Send. If you are reading this then it means we are excited about you and want to know more about how you approach technical problems. This task is written in Java, but if you prefer to convert it to Kotlin (our backend language of choice) then feel free.
+Thank you for your interest in working at X. If you are reading this then it means we are excited about you and want to know more about how you approach technical problems. This task is written in Java, but if you prefer to convert it to Kotlin (our backend language of choice) then feel free.
 
 This should take no more than 3 hours. Furthermore, we would like to see your work within 3 business days of receiving this challenge. Please let us know if that will be a problem. When you've completed the task, please send us a link to a Github repository with your work. Someone on our team will review within 1 business day and follow up with you about next steps.
 
